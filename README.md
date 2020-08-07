@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 Hey, I'm Dom
+I'm a Math - Computer Science Major at UCSD with aspirations of becoming a Full Stack Software Engineer! I'm a junior graduating 2022 and actively seeking out internships! If you'd like to collaborate or get in touch, drop me a line at Domogami@gmail.com
+
+### 🔭 I’m currently working on ...
+Office Inc. is a mobile game involving non-linear storylines about an averege office employee who discovers a dark secret about the company they work for...
+
+### ⚡ Fun facts
+- I'm a black belt in Hapkido, a Korean Martial Art
+- I enjoy making Calligraphy on both paper and digital (Gothic Style)
+- I enjoy learning Piano and started just 2 years ago
+- I enjoy puzzles of all kind including rubiks cubes and other cuboids
+- Origami is one of my passtimes that will consume me for hours on end
+
 
 <!--
 **domogami/domogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
