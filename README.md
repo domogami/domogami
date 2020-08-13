@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Dom
 I'm a Math - Computer Science Major at UCSD with aspirations of becoming a Full Stack Software Engineer! I'm a junior graduating 2022 and actively seeking out internships! If you'd like to collaborate or get in touch, drop me a line at Domogami@gmail.com
 
-### 🔭 I’m currently working on ...
+### 🔭 What I’m currently working on
 Office Inc. is a mobile game involving non-linear storylines about an averege office employee who discovers a dark secret about the company they work for...
 
 ### ⚡ Fun facts
