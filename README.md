@@ -10,6 +10,7 @@ Office Inc. is a mobile game involving non-linear storylines about an averege of
 - I enjoy learning Piano and started just 2 years ago
 - I enjoy puzzles of all kind including rubiks cubes and other cuboids
 - Origami is one of my passtimes that will consume me for hours on end
+- I am currently taking up cycling
 
 
 <!--
