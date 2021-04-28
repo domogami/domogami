@@ -2,7 +2,7 @@
 I'm a Math - Computer Science Major at UCSD with aspirations of becoming a Full Stack Software Engineer! I'm a junior graduating 2022 and an incoming Amazon SDE intern! If you'd like to collaborate or get in touch, drop me a line at Domogami@gmail.com
 
 ### 🔭 What I’m currently working on
-Office Inc. is a mobile game involving non-linear storylines about an averege office employee who discovers a dark secret about the company they work for...
+As Webmaster, I created the <a href="https://ieeeucsd.org">IEEE UCSD website</a> which can be found here! I'm actively improving on it and hope to finish in Spring.
 
 ### ⚡ Fun facts
 - I'm a black belt in Hapkido, a Korean Martial Art
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Office Inc. is a mobile game involving non-linear storylines about an averege office employee who discovers a dark secret about the company they work for...
